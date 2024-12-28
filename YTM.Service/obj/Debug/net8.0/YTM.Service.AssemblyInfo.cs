@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YTM.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d50ebbdcb62404f2f75750ceeb3eb6d923b9521")]
 [assembly: System.Reflection.AssemblyProductAttribute("YTM.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YTM.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
