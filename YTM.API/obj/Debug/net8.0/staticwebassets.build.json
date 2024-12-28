@@ -1,0 +1,1773 @@
+{
+  "Version": 1,
+  "Hash": "7O2LiZALbtkG44Fg2g0SuB70OHyNhBcnc+rLp8eQCXQ=",
+  "Source": "YTM.API",
+  "BasePath": "_content/YTM.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "YTM.API\\wwwroot",
+      "Source": "YTM.API",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\admin\\dashboard.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "admin/dashboard#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fj2zqtx69y",
+      "Integrity": "ZYrALII3PqKYlPOI4R352/rKCUaH5Kg6QU2pd2Cw1zk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\admin\\index.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "admin/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qqq9ckf3fn",
+      "Integrity": "XgSpsj/8L7WLu7+3LSNB7hiZYtm9arwiwXZrU61/D0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\admin.css",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "css/admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "et3623qrtj",
+      "Integrity": "0uYou/u0aVFf3caWPVN2Iv9xQQi3Nydv7dgkf6kVAmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\customer.css",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "css/customer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wc31i6fwov",
+      "Integrity": "wB7EBxSFNcDKr/wHkOEUEHbBoz+JuB6JSm/sXjNp0nQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\customer.css"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\login.css",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbvmzgdixm",
+      "Integrity": "7SQXr3aZHYqVv4SdyM7CulV14lqY89vBR8I73j5Jbsc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\style.css",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "45rmsgwdzy",
+      "Integrity": "6E6uaeDgcMI4eWVmBYdtdm7Ez7Bxj/AKVGvnyGewTMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\customer\\dashboard.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "customer/dashboard#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mskxzjsib1",
+      "Integrity": "hlbYEux7cBcfYKD6JLI3AbHDqGUrH9aRNa15AM/yOiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\customer\\index.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "customer/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vyhih1duow",
+      "Integrity": "iS/dfe5nFsityBqbZNNIvORbVT8JQ/KDj6IS2SlvMSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\customer\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\index.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oj7c93rq6i",
+      "Integrity": "zIn5mPNlEJ6+XRPdMaRosK8Qk/UlmlvsQaJjgOf1m7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\admin.js",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "js/admin#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z0nqpl9mpz",
+      "Integrity": "EzQpSjVODf8LenzgfArI6b3GqctOfY4i5oDKpk9JNMA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\admin.js"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\auth.js",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "js/auth#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t61yhp118d",
+      "Integrity": "hT9PP8LU8/UAMjY0/kjirqXJbCL+sJAcC1L95qy/FdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\auth.js"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\cart.js",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "js/cart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qqsqp003y",
+      "Integrity": "T9RzBa6EKUZ5goBgQKouDhc5wZOmaHa5VGkCbWoiH7Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\cart.js"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\customer.js",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "js/customer#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3j6nsjm2kq",
+      "Integrity": "MdeDfKP5Qy6v5Qd9Ud35RORGjPNhBJNz/KrwYVWzRdQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\customer.js"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\filters.js",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "js/filters#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "snetituu51",
+      "Integrity": "eDW/NW63rwt9tZ535LwY/pK7W4acjFdRWzvs4m7y1E8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\filters.js"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\main.js",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tpks86iayx",
+      "Integrity": "Hyg7rFpKIr+XpzMgx8VPg2dWRqLLtioV2Y9qs7uKi00=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\login.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rhusbpnn42",
+      "Integrity": "X6gW6QzNEEAlcsFo5kowQJ2daRBW94YRUTDson43EGY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\register.html",
+      "SourceId": "YTM.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\",
+      "BasePath": "_content/YTM.API",
+      "RelativePath": "register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "geo1zooub1",
+      "Integrity": "yJSlkr01GkwDV99lE//+9XIRs/momEZvSEfmQAam2n8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\register.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "admin/dashboard.fj2zqtx69y.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\admin\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZYrALII3PqKYlPOI4R352/rKCUaH5Kg6QU2pd2Cw1zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fj2zqtx69y"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZYrALII3PqKYlPOI4R352/rKCUaH5Kg6QU2pd2Cw1zk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/dashboard.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\admin\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZYrALII3PqKYlPOI4R352/rKCUaH5Kg6QU2pd2Cw1zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZYrALII3PqKYlPOI4R352/rKCUaH5Kg6QU2pd2Cw1zk="
+        }
+      ]
+    },
+    {
+      "Route": "admin/index.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\admin\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgSpsj/8L7WLu7+3LSNB7hiZYtm9arwiwXZrU61/D0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XgSpsj/8L7WLu7+3LSNB7hiZYtm9arwiwXZrU61/D0M="
+        }
+      ]
+    },
+    {
+      "Route": "admin/index.qqq9ckf3fn.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\admin\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgSpsj/8L7WLu7+3LSNB7hiZYtm9arwiwXZrU61/D0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqq9ckf3fn"
+        },
+        {
+          "Name": "label",
+          "Value": "admin/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XgSpsj/8L7WLu7+3LSNB7hiZYtm9arwiwXZrU61/D0M="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0uYou/u0aVFf3caWPVN2Iv9xQQi3Nydv7dgkf6kVAmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0uYou/u0aVFf3caWPVN2Iv9xQQi3Nydv7dgkf6kVAmQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.et3623qrtj.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0uYou/u0aVFf3caWPVN2Iv9xQQi3Nydv7dgkf6kVAmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "et3623qrtj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0uYou/u0aVFf3caWPVN2Iv9xQQi3Nydv7dgkf6kVAmQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/customer.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\customer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wB7EBxSFNcDKr/wHkOEUEHbBoz+JuB6JSm/sXjNp0nQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wB7EBxSFNcDKr/wHkOEUEHbBoz+JuB6JSm/sXjNp0nQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/customer.wc31i6fwov.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\customer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4831"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wB7EBxSFNcDKr/wHkOEUEHbBoz+JuB6JSm/sXjNp0nQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wc31i6fwov"
+        },
+        {
+          "Name": "label",
+          "Value": "css/customer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wB7EBxSFNcDKr/wHkOEUEHbBoz+JuB6JSm/sXjNp0nQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SQXr3aZHYqVv4SdyM7CulV14lqY89vBR8I73j5Jbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SQXr3aZHYqVv4SdyM7CulV14lqY89vBR8I73j5Jbsc="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.nbvmzgdixm.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7SQXr3aZHYqVv4SdyM7CulV14lqY89vBR8I73j5Jbsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbvmzgdixm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7SQXr3aZHYqVv4SdyM7CulV14lqY89vBR8I73j5Jbsc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.45rmsgwdzy.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6E6uaeDgcMI4eWVmBYdtdm7Ez7Bxj/AKVGvnyGewTMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "45rmsgwdzy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6E6uaeDgcMI4eWVmBYdtdm7Ez7Bxj/AKVGvnyGewTMo="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1856"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6E6uaeDgcMI4eWVmBYdtdm7Ez7Bxj/AKVGvnyGewTMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6E6uaeDgcMI4eWVmBYdtdm7Ez7Bxj/AKVGvnyGewTMo="
+        }
+      ]
+    },
+    {
+      "Route": "customer/dashboard.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\customer\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hlbYEux7cBcfYKD6JLI3AbHDqGUrH9aRNa15AM/yOiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hlbYEux7cBcfYKD6JLI3AbHDqGUrH9aRNa15AM/yOiA="
+        }
+      ]
+    },
+    {
+      "Route": "customer/dashboard.mskxzjsib1.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\customer\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hlbYEux7cBcfYKD6JLI3AbHDqGUrH9aRNa15AM/yOiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mskxzjsib1"
+        },
+        {
+          "Name": "label",
+          "Value": "customer/dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hlbYEux7cBcfYKD6JLI3AbHDqGUrH9aRNa15AM/yOiA="
+        }
+      ]
+    },
+    {
+      "Route": "customer/index.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\customer\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iS/dfe5nFsityBqbZNNIvORbVT8JQ/KDj6IS2SlvMSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iS/dfe5nFsityBqbZNNIvORbVT8JQ/KDj6IS2SlvMSo="
+        }
+      ]
+    },
+    {
+      "Route": "customer/index.vyhih1duow.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\customer\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iS/dfe5nFsityBqbZNNIvORbVT8JQ/KDj6IS2SlvMSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vyhih1duow"
+        },
+        {
+          "Name": "label",
+          "Value": "customer/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iS/dfe5nFsityBqbZNNIvORbVT8JQ/KDj6IS2SlvMSo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zIn5mPNlEJ6+XRPdMaRosK8Qk/UlmlvsQaJjgOf1m7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zIn5mPNlEJ6+XRPdMaRosK8Qk/UlmlvsQaJjgOf1m7M="
+        }
+      ]
+    },
+    {
+      "Route": "index.oj7c93rq6i.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zIn5mPNlEJ6+XRPdMaRosK8Qk/UlmlvsQaJjgOf1m7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oj7c93rq6i"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zIn5mPNlEJ6+XRPdMaRosK8Qk/UlmlvsQaJjgOf1m7M="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\admin.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EzQpSjVODf8LenzgfArI6b3GqctOfY4i5oDKpk9JNMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EzQpSjVODf8LenzgfArI6b3GqctOfY4i5oDKpk9JNMA="
+        }
+      ]
+    },
+    {
+      "Route": "js/admin.z0nqpl9mpz.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\admin.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EzQpSjVODf8LenzgfArI6b3GqctOfY4i5oDKpk9JNMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z0nqpl9mpz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/admin.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EzQpSjVODf8LenzgfArI6b3GqctOfY4i5oDKpk9JNMA="
+        }
+      ]
+    },
+    {
+      "Route": "js/auth.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\auth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hT9PP8LU8/UAMjY0/kjirqXJbCL+sJAcC1L95qy/FdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hT9PP8LU8/UAMjY0/kjirqXJbCL+sJAcC1L95qy/FdY="
+        }
+      ]
+    },
+    {
+      "Route": "js/auth.t61yhp118d.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\auth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hT9PP8LU8/UAMjY0/kjirqXJbCL+sJAcC1L95qy/FdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t61yhp118d"
+        },
+        {
+          "Name": "label",
+          "Value": "js/auth.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hT9PP8LU8/UAMjY0/kjirqXJbCL+sJAcC1L95qy/FdY="
+        }
+      ]
+    },
+    {
+      "Route": "js/cart.7qqsqp003y.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\cart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T9RzBa6EKUZ5goBgQKouDhc5wZOmaHa5VGkCbWoiH7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qqsqp003y"
+        },
+        {
+          "Name": "label",
+          "Value": "js/cart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T9RzBa6EKUZ5goBgQKouDhc5wZOmaHa5VGkCbWoiH7Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/cart.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\cart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T9RzBa6EKUZ5goBgQKouDhc5wZOmaHa5VGkCbWoiH7Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T9RzBa6EKUZ5goBgQKouDhc5wZOmaHa5VGkCbWoiH7Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/customer.3j6nsjm2kq.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\customer.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MdeDfKP5Qy6v5Qd9Ud35RORGjPNhBJNz/KrwYVWzRdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 14:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3j6nsjm2kq"
+        },
+        {
+          "Name": "label",
+          "Value": "js/customer.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MdeDfKP5Qy6v5Qd9Ud35RORGjPNhBJNz/KrwYVWzRdQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/customer.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\customer.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13822"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MdeDfKP5Qy6v5Qd9Ud35RORGjPNhBJNz/KrwYVWzRdQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 14:07:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MdeDfKP5Qy6v5Qd9Ud35RORGjPNhBJNz/KrwYVWzRdQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/filters.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\filters.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eDW/NW63rwt9tZ535LwY/pK7W4acjFdRWzvs4m7y1E8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eDW/NW63rwt9tZ535LwY/pK7W4acjFdRWzvs4m7y1E8="
+        }
+      ]
+    },
+    {
+      "Route": "js/filters.snetituu51.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\filters.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eDW/NW63rwt9tZ535LwY/pK7W4acjFdRWzvs4m7y1E8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "snetituu51"
+        },
+        {
+          "Name": "label",
+          "Value": "js/filters.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eDW/NW63rwt9tZ535LwY/pK7W4acjFdRWzvs4m7y1E8="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hyg7rFpKIr+XpzMgx8VPg2dWRqLLtioV2Y9qs7uKi00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hyg7rFpKIr+XpzMgx8VPg2dWRqLLtioV2Y9qs7uKi00="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.tpks86iayx.js",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hyg7rFpKIr+XpzMgx8VPg2dWRqLLtioV2Y9qs7uKi00=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tpks86iayx"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hyg7rFpKIr+XpzMgx8VPg2dWRqLLtioV2Y9qs7uKi00="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6gW6QzNEEAlcsFo5kowQJ2daRBW94YRUTDson43EGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6gW6QzNEEAlcsFo5kowQJ2daRBW94YRUTDson43EGY="
+        }
+      ]
+    },
+    {
+      "Route": "login.rhusbpnn42.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6gW6QzNEEAlcsFo5kowQJ2daRBW94YRUTDson43EGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rhusbpnn42"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6gW6QzNEEAlcsFo5kowQJ2daRBW94YRUTDson43EGY="
+        }
+      ]
+    },
+    {
+      "Route": "register.geo1zooub1.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJSlkr01GkwDV99lE//+9XIRs/momEZvSEfmQAam2n8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "geo1zooub1"
+        },
+        {
+          "Name": "label",
+          "Value": "register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJSlkr01GkwDV99lE//+9XIRs/momEZvSEfmQAam2n8="
+        }
+      ]
+    },
+    {
+      "Route": "register.html",
+      "AssetFile": "C:\\Users\\owner\\Desktop\\YTM\\YTM.API\\wwwroot\\register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJSlkr01GkwDV99lE//+9XIRs/momEZvSEfmQAam2n8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 28 Dec 2024 13:15:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJSlkr01GkwDV99lE//+9XIRs/momEZvSEfmQAam2n8="
+        }
+      ]
+    }
+  ]
+}
